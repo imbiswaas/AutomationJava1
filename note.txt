@@ -1,0 +1,10 @@
+browser open
+
+valid email enter
+
+email= identifierId (id)
+
+next button click= //*[@id="identifierNext"]/span (xpath)
+........................
+
+password= id xpath... sendkeys();

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad798066-2c22-45c9-ac9a-d4bd7ec438ec" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bEYd9SSvsI3V4qvgNm1UJnNzhg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/BDD/StepDef" />
+  </component>
+  <component name="RunManager" selected="JUnit.q3VerifyIfCartsEmpty">
+    <configuration name="TitleVerify" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutomationJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AssignmentAutomation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AssignmentAutomation" />
+      <option name="MAIN_CLASS_NAME" value="AssignmentAutomation.TitleVerify" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TitleVerify.TitleVerify" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutomationJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AssignmentAutomation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AssignmentAutomation" />
+      <option name="MAIN_CLASS_NAME" value="AssignmentAutomation.TitleVerify" />
+      <option name="METHOD_NAME" value="TitleVerify" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q3VerifyIfCartsEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutomationJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AssignmentAutomation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AssignmentAutomation" />
+      <option name="MAIN_CLASS_NAME" value="AssignmentAutomation.q3VerifyIfCartsEmpty" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q5NewsletterVerify.NewsLetterVerify" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutomationJava" />
+      <option name="PACKAGE_NAME" value="AssignmentAutomation" />
+      <option name="MAIN_CLASS_NAME" value="AssignmentAutomation.q5NewsletterVerify" />
+      <option name="METHOD_NAME" value="NewsLetterVerify" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q6ScrollBar.UserLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutomationJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AssignmentAutomation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AssignmentAutomation" />
+      <option name="MAIN_CLASS_NAME" value="AssignmentAutomation.q6ScrollBar" />
+      <option name="METHOD_NAME" value="UserLogin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.q3VerifyIfCartsEmpty" />
+        <item itemvalue="JUnit.TitleVerify" />
+        <item itemvalue="JUnit.TitleVerify.TitleVerify" />
+        <item itemvalue="JUnit.q6ScrollBar.UserLogin" />
+        <item itemvalue="JUnit.q5NewsletterVerify.NewsLetterVerify" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad798066-2c22-45c9-ac9a-d4bd7ec438ec" name="Default Changelist" comment="" />
+      <created>1588198804712</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588198804712</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="454" y="239" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589840846391">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="454" y="239" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860@0.0.1440.860" timestamp="1589840846391" />
+    <state x="475" y="138" key="#xdebugger.evaluate" timestamp="1589403690456">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="475" y="138" key="#xdebugger.evaluate/0.0.1440.860@0.0.1440.860" timestamp="1589403690456" />
+    <state x="495" y="375" key="FileChooserDialogImpl" timestamp="1590187070794">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="495" y="375" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1590187070794" />
+    <state width="1397" height="157" key="GridCell.Tab.0.bottom" timestamp="1590360150683">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="157" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1590360150683" />
+    <state width="1397" height="157" key="GridCell.Tab.0.center" timestamp="1590360150683">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="157" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1590360150683" />
+    <state width="1397" height="157" key="GridCell.Tab.0.left" timestamp="1590360150683">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="157" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1590360150683" />
+    <state width="1397" height="157" key="GridCell.Tab.0.right" timestamp="1590360150683">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="157" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1590360150683" />
+    <state width="1397" height="276" key="GridCell.Tab.1.bottom" timestamp="1589413318695">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1589413318695" />
+    <state width="1397" height="276" key="GridCell.Tab.1.center" timestamp="1589413318695">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1589413318695" />
+    <state width="1397" height="276" key="GridCell.Tab.1.left" timestamp="1589413318694">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1589413318694" />
+    <state width="1397" height="276" key="GridCell.Tab.1.right" timestamp="1589413318695">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1589413318695" />
+    <state x="0" y="720" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1589927618779">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="0" y="720" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1440.860@0.0.1440.860" timestamp="1589927618779" />
+    <state x="393" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1590198059001">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="393" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1590198059001" />
+  </component>
+</project>
